@@ -80,19 +80,7 @@ export default {
 }
 
 .text-red {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  color: blue
-=======
-  color: yellow
->>>>>>> 818a2e682e534eee423cb7f4f0b098622c94f11b
-=======
-  color: yellow
->>>>>>> 818a2e682e534eee423cb7f4f0b098622c94f11b
-=======
-  color: yellow
->>>>>>> 818a2e682e534eee423cb7f4f0b098622c94f11b
+color: #fff;
 }
 
 .buttons {
