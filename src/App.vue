@@ -80,7 +80,7 @@ export default {
 }
 
 .text-red {
-  color: red;
+  color: blue
 }
 
 .buttons {
